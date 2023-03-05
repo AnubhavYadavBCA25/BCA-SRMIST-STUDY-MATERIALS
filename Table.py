@@ -29,4 +29,4 @@ while i<11:  # Setting the limit of 'i' by while loop
 
     i += 1  # Adding 1 number after every multiple until it will reach to 10.
 
-# Note: Both codes are provide same output. So, it's depends on you which codes you understand clear.
+# Note: Both codes are provide same output. So, it's depends on you which code you understand clear.
